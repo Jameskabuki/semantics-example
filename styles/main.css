@@ -6,17 +6,6 @@
     font-size:large;
     align-content: center;
 }
-.lion{
-    color:blue;
-    font-size: large;
-    align-content: center;
-}
-.panda{
-    color: blue;
-    font-size: large;
-    align-items: center;
-}
-
-.body{
-    background-color: aqua ;
+.dolphin main {
+    background-color: aqua;
 }
