@@ -1,10 +1,328 @@
-.body {
-    background-color: aqua;
+
+    
+
+
+.panda{
+    color:red;
 }
-.dolphin{
-    color:smoke whitesmoke;
-    font-size:large;
-    align-content: center;
+.giant panda{
+    color: blueviolet;
+}
+
+.dophine{
+    background-color: red;
+}
+#reach{
+    display: flex;
+    float: left;
+    justify-content:center ;
+    align-items: center;
+}
+#phones{
+    display: flex;
+    float: left;
+    justify-content:center ;
+    align-items: center;
+}
+#popping{
+    display: flex;
+    float: left;
+    justify-content:center ;
+    align-items: center;
 }
 
 
+#dolphinone{
+    background-color:whitesmoke;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: auto;
+    padding-left: 20px;
+    padding-inline: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+#dolphintwo{
+    color: red;
+}
+#dolphinthree{
+    color: red;
+}
+#dolphinfour{
+    color: red;
+}
+#socialone{
+    background-color:whitesmoke;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: auto;
+    padding-left: 20px;
+    padding-inline: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+#socialtwo{
+    color:blue;
+}
+#socialthree{
+    color: red;
+}
+#btn{
+    width: 40%;
+    height: 40px;
+    background-color: red;
+}
+#srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background: white;
+    border: 1px solid black;
+    margin-top: 0px;
+    float: left;
+    padding: 10px;
+    
+}
+#socialfour{
+    color: red;
+}
+#search{
+    width: 300px;
+    float: left;
+    margin-right: 270px;
+    top: 10px;
+    right: 700px;
+
+}
+    
+#pandaone{
+    background-color:whitesmoke;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: auto;
+    padding-left: 20px;
+    padding-inline: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+#pandatwo{
+    color: red;
+}
+#pandathree{
+    color: red;
+}
+#pandafour{
+    color: red;
+}
+
+#simba{
+    background-color:whitesmoke;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: auto;
+    padding-left: 20px;
+    padding-inline: 10px;
+    text-align: left;
+    font-size: 18px;
+    
+
+}
+#simbaone{
+    color: red;
+}
+#simbatwo{
+    color: red;
+}
+#simbathree{
+    color: red;
+}
+#simbafour{
+    color: red;
+}
+#simbafive{
+    color: red;
+}
+#icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: black;
+    font-size: 35px;
+    font-family: Arial;
+    float:left;
+    padding-top: 15px;
+    padding-left: 20px;
+}
+#p1{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: initial;
+}
+#p2{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: initial;
+}
+#navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+#menu{
+    display: flex;
+    float: left;
+    justify-content:center ;
+    align-items: center;
+}
+#one{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    transition: 0.4s ease-in-out;
+    bottom: 130px;
+} 
+#two{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    transition: 0.4s ease-in-out; 
+    bottom: 130px;
+} 
+#three{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    transition: 0.4s ease-in-out; 
+    bottom: 130px;
+} 
+.About{
+    
+    font-size: 14px;
+    font-weight: bold;
+    bottom: 460px;
+    right: 300px;
+    border-radius: 10px;
+    padding: 25px;
+}
+.contacts{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    transition: 0.4s ease-in-out;
+    bottom: 40px;
+}
+.Socials{
+    list-style: none;
+        margin-left: 30px;
+        margin-top: 27px;
+        font-size: 14px;
+        font-weight: bold;
+        color: blue;
+        transition: 0.4s ease-in-out; 
+        bottom: 40px;
+}
+
+.reachone{
+        list-style: none;
+        margin-left: 30px;
+        margin-top: 27px;
+        font-size: 14px;
+        font-weight: bold;
+        color: blue;
+        transition: 0.4s ease-in-out; 
+        bottom: 40px;
+}
+.reachtwo{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color:blue;
+    transition: 0.4s ease-in-out; 
+    bottom: 40px;
+}
+.reachthree{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color:blue;
+    transition: 0.4s ease-in-out; 
+    bottom: 40px;
+}
+
+#content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+}
+#login{
+    width: 250px;
+    height: 300px;
+    position: absolute;
+    bottom: 160px;
+    right: 300px;
+    border-radius: 10px;
+    padding: 25px; 
+}
+.h2tag{
+    width: 100px;
+    font-family: sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    background-color: white;
+}
+#three{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 27px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    transition: 0.4s ease-in-out;
+} 
+#bottom{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+}
+#copyright{
+    display: flex;
+    align-items: end;
+    justify-items: baseline;
+}
+#homepage{
+    color:black;
+    align-self: stretch;
+    font-size: medium;
+}
+#welcome{
+    width: 100px;
+    background-color: chocolate;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
